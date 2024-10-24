@@ -29,7 +29,7 @@
   <a href="https://linkedin.com/in/mohammed-shan" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/sps-03" target="_blank">
+  <a href="https://sps-03.github.io/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </div>
